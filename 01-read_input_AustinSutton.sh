@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Welcome to Austin Sutton's epic file" 
+echo "Welcome to Austin Sutton's super epic file" 
