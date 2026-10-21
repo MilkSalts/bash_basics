@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Welcome to Austin Sutton's super epic file, more changes" 
+echo "Welcome to Austin Sutton's hamburg file" 
+hamburgur
